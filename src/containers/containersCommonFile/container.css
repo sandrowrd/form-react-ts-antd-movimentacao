@@ -1,0 +1,61 @@
+@import "antd/dist/antd.css";
+
+fieldset {
+  width: 75%;
+  height: 90%;
+  border: 1px solid #454545;
+  border-radius: 20px;
+  margin: 50px 0 50px 200px;
+  padding: 20px 80px;
+  font-weight: 600;
+}
+
+legend {
+  font-size: 14pt;
+  font-weight: bold;
+  text-align: left;
+}
+
+.CVCHeader {
+  background: linear-gradient(#69c0ff, white);
+  height: 150px;
+}
+
+.CVCFooter {
+  height: 150px;
+  background: linear-gradient(#d3f261, #ffffb8);
+}
+
+.CVCContent {
+  max-width: 1200;
+  margin: 50px 0 50px 100px;
+}
+
+.warningPanel {
+  width: 95%;
+  font-size: 12pt;
+  text-align: left;
+  background-color: rgb(183, 209, 200);
+  border-radius: 10px;
+  padding: 5px;
+  margin: 0px 0px 40px 0px;
+}
+
+.modality {
+  width: 80%;
+}
+
+.ant-col-10 {
+  max-width: 70%;
+}
+
+.modo-box {
+  width: 90%;
+  height: 70%;
+  margin: 0 0 70px 0;
+  padding: 0 0 0 60px;
+}
+
+.check-Mode {
+  margin-bottom: 5px;
+}
